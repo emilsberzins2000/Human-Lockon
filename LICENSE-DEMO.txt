@@ -1,0 +1,21 @@
+Human-LockOn – DEMO VERSION
+Copyright (c) 2026
+All rights reserved.
+
+This is a DEMONSTRATION VERSION of the software.
+
+Permission is granted to run and evaluate this software for
+personal testing and demonstration purposes only.
+
+The following are strictly prohibited:
+- Commercial use
+- Redistribution or resale
+- Modification of the source code
+- Reverse engineering
+- Publishing the source code
+
+This demo may contain functional limitations.
+
+For a full commercial license, contact:
+Instagram: @randomguygithub
+
