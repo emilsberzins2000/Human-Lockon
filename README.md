@@ -1,10 +1,7 @@
-Here’s a **clean, professional GitHub `README.md`** you can paste directly into your repo.
-It’s written for **selling the project (10 EUR)** and clearly states **copyright + ownership** and your **Instagram contact**.
 
----
 
 ````markdown
-# GTA-Style AI Lock-On Camera (Real-Time Human Tracking)
+# Human-LockOn (Real-Time Human Tracking)
 
 🎯 **Real-time AI camera system with GTA-style lock-on mechanics**
 
@@ -80,24 +77,7 @@ Make sure your webcam is connected and accessible.
 
 ## 💰 License & Purchase
 
-### 🔒 Copyright Notice
-
-**© 2026 — All Rights Reserved**
-
-This software and its source code are **100% owned by the author**.
-
-❗ **You are NOT allowed to:**
-
-* Redistribute the source code
-* Resell the code
-* Upload it publicly
-* Claim authorship
-* Modify and relicense it
-
-✅ **You ARE allowed to:**
-
-* Use it for personal or commercial projects **after purchase**
-* Use compiled/embedded versions in applications (no source redistribution)
+Read LICENSE-DEMO
 
 ---
 
@@ -141,15 +121,3 @@ If you want:
 
 👉 Contact me on Instagram.
 
-```
-
----
-
-If you want, I can also:
-- Write a **paid license PDF**
-- Add a **LICENSE file**
-- Create a **gumroad / sellix product description**
-- Make the README more **“premium” / commercial**
-
-Just tell me.
-```
