@@ -30,7 +30,8 @@ It detects humans in real time, locks onto the chest area, zooms dynamically, sn
   - Press **ESC** to exit fullscreen
 - 🎮 **GTA-like feel**, built fully in Python
 ---
-<img width="958" height="760" alt="59e95787-d840-4f81-8daf-ddae1f5a0a2c" src="https://github.com/user-attachments/assets/d0c6264c-1cf3-4ad5-a946-6b4eddb06649" />
+<img width="958" height="760" alt="59e95787-d840-4f81-8daf-ddae1f5a0a2c" src="https://github.com/user-attachments/assets/dc09af85-deea-4918-be58-80b43c1a215b" />
+
 ---
 
 ## 🎮 Controls
